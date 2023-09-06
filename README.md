@@ -12,3 +12,7 @@ Protect a range from being edited by anyone but the owner of the sheet
 
 ### AddValueNewSheetEdit.gs
 Add value from a particular sheet to a new sheet on edit
+
+
+### SendEmailData.gs
+Send email with content based on filters; I use it to automate what my ToDo Lists are and send them in my email
