@@ -9,3 +9,6 @@ Adds a time stamp when a particular column was last edited
 
 ### ProtectFromEdit.gs
 Protect a range from being edited by anyone but the owner of the sheet
+
+### AddValueNewSheetEdit.gs
+Add value from a particular sheet to a new sheet on edit
